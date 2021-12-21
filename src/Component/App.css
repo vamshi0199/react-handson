@@ -1,0 +1,62 @@
+body{
+    background-color: coral;
+    text-align: center;
+}
+.app{
+    color: black;
+}
+.sigma{
+    
+    border: solid 2px black;
+    height: 250px;
+    width: 300px;
+    background-color: skyblue;
+    margin-left: 180px;
+}
+.mega{
+    border: solid 2px black;
+    height: 250px;
+    width: 300px;
+    background-color: skyblue;
+    margin-left: 100px;
+
+}
+.comein{
+    display: flex;
+    position: relative;
+    padding: 5px;
+    border-radius: 10px;
+    top: 80px;
+    left: 100px;
+    flex-direction: row;
+    
+}
+/* .flex{
+    background-color: lightcoral;
+    display: inline-block;
+    margin-left: 90px;
+    margin-right: 20px;
+    /* height: 100px; */
+    /* width: 180px;    */
+ *
+.two{
+    position: relative;
+    background-color:blue;
+    padding: 3px;
+    border-radius: 21px;
+    top: 10px;
+    left: 80px;
+    height: 40px;
+}
+
+.one{
+    position: relative;
+    background-color:blue;
+    padding: 3px;
+    border-radius: 21px;
+    height: 40px;
+    left: -100px;
+    top: 10px;
+
+}
+
